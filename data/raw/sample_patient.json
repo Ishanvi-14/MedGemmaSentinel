@@ -1,0 +1,28 @@
+{
+    "entry": [
+        {
+            "resource": {
+                "resourceType": "Observation",
+                "code": {
+                    "text": "Tumor Size"
+                },
+                "valueQuantity": {
+                    "value": 25,
+                    "unit": "mm"
+                }
+            }
+        },
+        {
+            "resource": {
+                "resourceType": "Observation",
+                "code": {
+                    "text": "CEA"
+                },
+                "valueQuantity": {
+                    "value": 5.2,
+                    "unit": "ng/mL"
+                }
+            }
+        }
+    ]
+}
