@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lance_namespace\__init__.py
+# hypothesis_version: 6.151.9
+
+['.', 'CreateTableRequest', 'CreateTableResponse', 'DeclareTableRequest', 'DeclareTableResponse', 'DescribeTableRequest', 'DropNamespaceRequest', 'DropTableRequest', 'DropTableResponse', 'ErrorCode', 'GetTableStatsRequest', 'InternalError', 'InvalidInputError', 'LanceNamespace', 'LanceNamespaceError', 'ListTableTagsRequest', 'ListTablesRequest', 'ListTablesResponse', 'NATIVE_IMPLS', 'QueryTableRequest', 'RegisterTableRequest', 'RenameTableRequest', 'RenameTableResponse', 'RestoreTableRequest', 'RestoreTableResponse', 'TableExistsRequest', 'TableNotFoundError', 'TableVersion', 'ThrottlingError', 'UnauthenticatedError', 'UpdateTableRequest', 'UpdateTableResponse', 'connect', 'dir', 'from_error_code', 'rest']

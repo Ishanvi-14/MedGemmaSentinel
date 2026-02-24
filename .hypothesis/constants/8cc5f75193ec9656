@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_core\language_models\chat_models.py
+# hypothesis_version: 6.151.9
+
+[100, '-', '---', 'AIMessage', 'AIMessageChunk', 'Chat', 'ChatGeneration', 'LC_OUTPUT_VERSION', 'TypeBaseModel', '_type', 'any', 'base64', 'body', 'callbacks', 'chat', 'data', 'dict[str, Any]', 'file', 'file_id', 'function', 'function_calling', 'graph', 'headers', 'id', 'image', 'index', 'json', 'kwargs', 'last', 'ls_max_tokens', 'ls_model_name', 'ls_stop', 'ls_temperature', 'max_tokens', 'message', 'metadata', 'method', 'model', 'model_name', 'name', 'not_implemented', 'parsing_error', 'raw', 'repr', 'request_id', 'response', 'run_id', 'run_manager', 'run_name', 'schema', 'source_type', 'status_code', 'stop', 'str', 'stream', 'streaming', 'strict', 'tags', 'temperature', 'text', 'tool_calling', 'tools', 'total_cost', 'type', 'usage_metadata', 'v1']

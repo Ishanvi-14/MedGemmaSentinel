@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\embeddings\colpali.py
+# hypothesis_version: 6.151.9
+
+['PIL.Image', 'auto', 'bfloat16', 'colidefics3', 'colpali', 'colpali_engine', 'colqwen', 'colqwen2.5', 'colsmol', 'cpu', 'cuda', 'flash_attention_2', 'float16', 'float32', 'float64', 'hierarchical', 'http://', 'https://', 'lambda', 'mps', 'pillow', 'requests', 'test', 'torch', 'transformers']

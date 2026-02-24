@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lance_namespace_urllib3_client\models\table_version.py
+# hypothesis_version: 6.151.9
+
+['Version number', 'e_tag', 'manifest_path', 'manifest_size', 'metadata', 'timestamp_millis', 'version']

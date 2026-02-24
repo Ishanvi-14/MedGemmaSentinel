@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lance_namespace_urllib3_client\api\data_api.py
+# hypothesis_version: 6.151.9
+
+['/v1/table/{id}/query', '200', '400', '401', '403', '404', '503', '5XX', 'Accept', 'ApiKeyAuth', 'Arrow IPC data', 'BearerAuth', 'Content-Type', 'CreateTableResponse', 'Delete request', 'ErrorResponse', 'OAuth2', 'POST', 'Query request', 'Update request', 'UpdateTableResponse', 'application/json', 'bytearray', 'delimiter', 'id', 'int', 'mode', 'on', 'rb', 'str', 'timeout', 'use_index']

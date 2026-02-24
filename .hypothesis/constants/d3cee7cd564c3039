@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\__init__.py
+# hypothesis_version: 6.151.9
+
+['.', 'AsyncConnection', 'AsyncTable', 'DBConnection', 'LANCEDB_API_KEY', 'LanceDBConnection', 'RemoteDBConnection', 'Session', 'Table', 'URI', '__version__', 'aws_region', 'connect', 'connect_async', 'connect_namespace', 'db://', 'lancedb', 'region', 'register_at_fork', 's3://', 'sanitize_uri', 'us-east-1', 'vector']

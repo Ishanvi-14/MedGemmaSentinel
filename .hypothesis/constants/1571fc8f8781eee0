@@ -1,0 +1,4 @@
+# file: D:\Kaggle_competitions\sentinel\src\vector_store.py
+# hypothesis_version: 6.151.9
+
+[100, 800, '.pdf', 'NCCN Guidelines', 'id', 'nsclc_guidelines', 'overwrite', 'page', 'records', 'source', 'text', 'vector']

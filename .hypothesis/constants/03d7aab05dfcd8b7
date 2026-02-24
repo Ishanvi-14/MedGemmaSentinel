@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\embeddings\gemini_text.py
+# hypothesis_version: 6.151.9
+
+[768, 'GOOGLE_API_KEY', 'embedding', 'gemini-text', 'google', 'google.generativeai', 'ignored_types', 'models/embedding-001', 'retrieval_document', 'retrieval_query', 'task_type', 'title']

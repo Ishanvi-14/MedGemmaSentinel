@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\embeddings\watsonx.py
+# hypothesis_version: 6.151.9
+
+[384, 768, 1024, 'WATSONX_API_KEY', 'WATSONX_PROJECT_ID', 'api_key', 'credentials', 'ibm_watsonx_ai', 'model_id', 'params', 'project_id', 'url', 'watsonx']

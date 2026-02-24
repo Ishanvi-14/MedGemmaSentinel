@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_huggingface\embeddings\huggingface.py
+# hypothesis_version: 6.151.9
+
+['1.22', '<', 'backend', 'forbid', 'ipex', 'model', 'torch']

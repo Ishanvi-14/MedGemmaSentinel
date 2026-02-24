@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\rerankers\cross_encoder.py
+# hypothesis_version: 6.151.9
+
+['_distance', '_relevance_score', '_score', 'all', 'cpu', 'cuda', 'descending', 'relevance', 'text', 'torch']

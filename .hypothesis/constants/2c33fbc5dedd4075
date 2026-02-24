@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\textstat\backend\counts\__init__.py
+# hypothesis_version: 6.151.9
+
+['count_chars', 'count_faseeh', 'count_letters', 'count_long_words', 'count_miniwords', 'count_sentences', 'count_syllables', 'count_words']

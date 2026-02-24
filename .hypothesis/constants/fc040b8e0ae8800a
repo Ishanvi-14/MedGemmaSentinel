@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\query.py
+# hypothesis_version: 6.151.9
+
+[0.0, 0.5, 1.0, '"', "'", '0.3.1', '0.4.0', 'AND', 'FTS Search Plan:', 'FTS Search Query:', 'FullTextQuery', 'LanceModel', 'MUST', 'MUST_NOT', 'OR', 'PIL.Image.Image', 'SHOULD', 'T', 'Table', 'Vector Search Plan:', 'Vector Search Query:', '_distance', '_rowid', '_score', 'all', 'auto', 'boolean', 'boost', 'columns', 'cosine', 'dot', 'fts', 'hybrid', 'l2', 'match', 'match_phrase', 'multi_match', 'pd.DataFrame', 'pl.DataFrame', 'query', 'rank', 'score', 'vector']

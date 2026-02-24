@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\nltk\corpus\reader\sentiwordnet.py
+# hypothesis_version: 6.151.9
+
+[1.0, ': ', '<', '>', 'NegScore=%s', 'PosScore=%s ', 'Senti', '\\t+', '^\\s*#', 'a', 's', 'utf-8']

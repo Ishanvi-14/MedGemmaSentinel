@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langgraph\_internal\_runnable.py
+# hypothesis_version: 6.151.9
+
+['<lambda>', 'BaseStore', 'N/A', 'Optional[BaseStore]', 'RunnableConfig', 'StreamWriter', '__call__', 'aclose', 'afunc', 'client', 'config', 'enabled', 'func', 'kwargs', 'metadata', 'name', 'parent', 'previous', 'project_name', 'run_id', 'run_name', 'runtime', 'store', 'stream_writer', 'tags', 'trace', 'writer']

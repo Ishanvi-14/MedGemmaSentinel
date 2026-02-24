@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_core\tracers\langchain.py
+# hypothesis_version: 6.151.9
+
+['No traced run found.', '__disabled', 'chat_model', 'child_runs', 'defers_inputs', 'enabled', 'generations', 'inputs', 'inputs_is_truthy', 'llm', 'message', 'messages', 'metadata', 'name', 'outputs', 'patch', 'post', 'runtime', 'start', 'time', 'usage_metadata']

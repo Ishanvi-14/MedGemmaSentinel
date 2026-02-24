@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\embeddings\openai.py
+# hypothesis_version: 6.151.9
+
+[1536, 3072, 'Bad request: %s', 'api_key', 'base_url', 'default_headers', 'dimensions', 'input', 'model', 'np.array', 'np.ndarray', 'openai', 'organization']

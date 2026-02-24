@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lance_namespace_urllib3_client\exceptions.py
+# hypothesis_version: 6.151.9
+
+[400, 401, 403, 404, 409, 422, 500, 599, '({0})\nReason: {1}\n', "['{0}']", '[{0}]', 'utf-8', '{0} at {1}']

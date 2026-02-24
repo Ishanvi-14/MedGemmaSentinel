@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_core\language_models\llms.py
+# hypothesis_version: 6.151.9
+
+['.json', '.yaml', '.yml', 'Callbacks', 'LLM', '_type', 'callbacks', 'dict[str, Any]', 'list[Callbacks]', 'list[str | None]', 'list[str]', 'llm', 'ls_max_tokens', 'ls_model_name', 'ls_stop', 'ls_temperature', 'max_concurrency', 'max_tokens', 'metadata', 'model', 'model_name', 'run_id', 'run_manager', 'run_name', 'stop', 'str | None', 'tags', 'temperature', 'utf-8', 'w']

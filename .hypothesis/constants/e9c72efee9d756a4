@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\embeddings\bedrock.py
+# hypothesis_version: 6.151.9
+
+[1024, 1536, '.', 'AccessKeyId', 'Credentials', 'SecretAccessKey', 'SessionToken', 'application/json', 'aws_access_key_id', 'aws_session_token', 'bedrock-runtime', 'bedrock-text', 'body', 'boto3', 'botocore', 'cohere', 'embedding', 'embeddings', 'ignored_types', 'inputText', 'input_type', 'lancedb-embeddings', 'max_attempts', 'mode', 'profile_name', 'region_name', 'search_document', 'search_query', 'standard', 'sts', 'texts', 'us-east-1']

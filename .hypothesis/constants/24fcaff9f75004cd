@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_huggingface\llms\huggingface_endpoint.py
+# hypothesis_version: 6.151.9
+
+[0.8, 0.95, 120, 512, 'HF_TOKEN', 'after', 'before', 'conversational', 'do_sample', 'endpoint_url', 'forbid', 'huggingface_endpoint', 'max_new_tokens', 'model', 'model_kwargs', 'provider', 'repetition_penalty', 'repo_id', 'return_full_text', 'seed', 'stop', 'summarization', 'task', 'temperature', 'text-generation', 'text2text-generation', 'top_k', 'top_p', 'truncate', 'typical_p', 'watermark']

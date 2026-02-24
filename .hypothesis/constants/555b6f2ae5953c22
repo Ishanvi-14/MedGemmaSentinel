@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lance_namespace_urllib3_client\models\describe_table_index_stats_response.py
+# hypothesis_version: 6.151.9
+
+['Number of indices', 'Type of the index', 'distance_type', 'index_type', 'num_indexed_rows', 'num_indices', 'num_unindexed_rows']

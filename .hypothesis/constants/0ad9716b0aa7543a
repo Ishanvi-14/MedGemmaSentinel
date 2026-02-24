@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\embeddings\cohere.py
+# hypothesis_version: 6.151.9
+
+[384, 768, 1024, 4096, 'COHERE_API_KEY', 'cohere', 'embed-english-v2.0', 'embed-english-v3.0', 'input_type', 'search_document', 'search_query']
