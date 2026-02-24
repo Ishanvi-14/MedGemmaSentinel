@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_community\document_loaders\dedoc.py
+# hypothesis_version: 6.151.9
+
+[200, ':', '</tbody>\n</table>', '</tr>\n', '<td', '<tr>\n', 'attachment', 'attachments', 'attachments_dir', 'auto', 'auto_tabby', 'cells', 'content', 'document', 'file', 'file_path', 'http://0.0.0.0:1231', 'invisible', 'json', 'line', 'linear', 'lines', 'logger', 'metadata', 'node', 'page', 'page_id', 'rb', 'return_format', 'rus+eng', 'self', 'split', 'structure', 'structure_type', 'subparagraphs', 'table', 'tables', 'text', 'text_as_html', 'tree', 'type', 'with_tables']

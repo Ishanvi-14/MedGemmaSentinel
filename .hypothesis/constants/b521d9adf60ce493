@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\rerankers\openai.py
+# hypothesis_version: 6.151.9
+
+['OPENAI_API_KEY', '_distance', '_relevance_score', '_score', 'all', 'content', 'descending', 'documents', 'gpt-4-turbo-preview', 'json_object', 'openai', 'relevance', 'relevance_score', 'role', 'system', 'text', 'type', 'user']

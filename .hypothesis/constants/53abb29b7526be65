@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_core\output_parsers\openai_tools.py
+# hypothesis_version: 6.151.9
+
+[', ', '<no_tools>', 'args', 'arguments', 'function', 'id', 'max_tokens', 'name', 'stop_reason', 'title', 'tool_calls', 'type']

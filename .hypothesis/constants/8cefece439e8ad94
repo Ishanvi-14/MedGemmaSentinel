@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\textstat\backend\utils\__init__.py
+# hypothesis_version: 6.151.9
+
+['constants', 'get_cmudict', 'get_grade_suffix', 'get_lang_cfg', 'get_lang_easy_words', 'get_lang_root', 'get_pyphen', 'typed_cache']

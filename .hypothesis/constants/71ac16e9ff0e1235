@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\index.py
+# hypothesis_version: 6.151.9
+
+[256, 300, 'Arabic', 'BTree', 'Bitmap', 'Danish', 'Dutch', 'English', 'FTS', 'Finnish', 'French', 'German', 'Greek', 'HnswPq', 'HnswSq', 'Hungarian', 'IndexConfig', 'Italian', 'IvfFlat', 'IvfHnswPq', 'IvfHnswSq', 'IvfPq', 'IvfRq', 'IvfSq', 'LabelList', 'Norwegian', 'Portuguese', 'Romanian', 'Russian', 'Spanish', 'Swedish', 'Tamil', 'Turkish', 'ar', 'cosine', 'da', 'de', 'dot', 'du', 'en', 'es', 'fi', 'fr', 'gr', 'hamming', 'hu', 'it', 'l2', 'no', 'pt', 'raw', 'ro', 'ru', 'simple', 'sv', 'ta', 'tr', 'whitespace']

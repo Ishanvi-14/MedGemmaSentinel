@@ -1,0 +1,37 @@
+ONCOLOGY CLINICAL NOTES
+Date: January 15, 2024
+Patient: John Doe (ID: P12345)
+
+CHIEF COMPLAINT:
+Follow-up for metastatic colorectal cancer
+
+HISTORY OF PRESENT ILLNESS:
+65-year-old male with stage IV colorectal cancer, currently on FOLFOX chemotherapy.
+Last imaging showed progression of disease.
+
+PHYSICAL EXAMINATION:
+Patient appears fatigued but in no acute distress.
+Abdominal examination reveals mild tenderness in RLQ.
+
+RECENT LAB RESULTS:
+- CEA elevated at 8.5 ng/mL (up from 7.2 last month)
+- CA 19-9 at 45 U/mL
+- Tumor markers trending upward
+
+IMAGING FINDINGS:
+CT scan from today shows primary tumor now measuring 3.2 cm, increased from 2.8 cm on previous scan.
+Multiple liver metastases, largest measuring 2.1 cm.
+
+MOLECULAR TESTING:
+EGFR mutation analysis positive - Exon 19 deletion detected.
+Patient may be candidate for targeted therapy.
+
+ASSESSMENT AND PLAN:
+1. Disease progression despite current chemotherapy
+2. Consider switch to EGFR-targeted therapy given mutation status
+3. Discuss treatment options with patient and family
+4. Repeat imaging in 6 weeks
+5. Continue supportive care
+
+Dr. Sarah Smith, MD
+Medical Oncology

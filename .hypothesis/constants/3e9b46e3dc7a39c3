@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\nltk\tbl\erroranalysis.py
+# hypothesis_version: 6.151.9
+
+['%25s | %s | %s\n', '%s/%s', '+', '-', 'left context', 'right context', 'word/test->gold']

@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_community\document_loaders\pdf.py
+# hypothesis_version: 6.151.9
+
+[200, 500, '![]', '# ', '$', '%', '(', ')', '**/[!.]*.pdf', '.', '/', 'MATHPIX_API_ID', 'MATHPIX_API_KEY', '\\$', '\\%', '\\(', '\\)', '\\section{', 'app_id', 'app_key', 'application/pdf', 'completed', 'conversion_formats', 'csv', 'endpoint_url', 'error', 'error_info', 'file', 'file_path', 'gpt-4o-mini', 'html', 'html-img', 'image/jpeg', 'image/png', 'image/tiff', 'layout', 'markdown', 'markdown-img', 'mathpix_api_id', 'mathpix_api_key', 'md', 'num_pages', 'options_json', 'page', 'pdf_id', 'plain', 'prebuilt-document', 'rb', 'region_name', 's3', 'single', 'source', 'status', 'temp_dir', 'text', 'textract', 'utf-8', 'wb', '}', '~']

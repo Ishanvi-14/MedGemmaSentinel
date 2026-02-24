@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_huggingface\data\_profiles.py
+# hypothesis_version: 6.151.9
+
+[2048, 4096, 8192, 16384, 32000, 66536, 96000, 98304, 128000, 131072, 163840, 200000, 204800, 262144, 'MiniMaxAI/MiniMax-M2', 'audio_inputs', 'audio_outputs', 'image_inputs', 'image_outputs', 'max_input_tokens', 'max_output_tokens', 'reasoning_output', 'tool_calling', 'video_inputs', 'video_outputs', 'zai-org/GLM-4.5', 'zai-org/GLM-4.5-Air', 'zai-org/GLM-4.6']

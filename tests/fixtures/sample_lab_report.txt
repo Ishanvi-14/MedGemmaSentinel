@@ -1,0 +1,26 @@
+CLINICAL LAB REPORT
+Patient ID: P12345
+Date: 2024-01-15
+
+ONCOLOGY BIOMARKERS
+
+Tumor Size: 3.2 cm (measured via CT scan)
+Previous: 2.8 cm (2023-12-01)
+
+CEA Level: 8.5 ng/mL
+Reference Range: 0-3 ng/mL
+Status: ELEVATED
+
+EGFR Mutation Status: Positive (Exon 19 deletion)
+Test Method: PCR
+
+CA 19-9: 45 U/mL
+Reference Range: 0-37 U/mL
+
+INTERPRETATION:
+Tumor shows progression with 14% increase in size.
+Elevated tumor markers consistent with active disease.
+EGFR mutation detected - candidate for targeted therapy.
+
+Physician: Dr. Smith
+Lab: Oncology Diagnostics Center

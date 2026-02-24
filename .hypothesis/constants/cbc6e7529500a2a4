@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_text_splitters\base.py
+# hypothesis_version: 6.151.9
+
+[200, 4000, 'TS', 'TextSplitter', 'all', 'allowed_special', 'c', 'cobol', 'cpp', 'csharp', 'disallowed_special', 'elixir', 'encoding_name', 'end', 'go', 'gpt2', 'haskell', 'html', 'java', 'js', 'kotlin', 'latex', 'lua', 'markdown', 'model_name', 'perl', 'php', 'powershell', 'proto', 'python', 'r', 'rst', 'ruby', 'rust', 'scala', 'sol', 'start', 'start_index', 'swift', 'ts', 'visualbasic6']

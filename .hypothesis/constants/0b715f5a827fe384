@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lance_namespace_urllib3_client\configuration.py
+# hypothesis_version: 6.151.9
+
+['%Y-%m-%d', '%s %s', '2333', ':', 'APIKeyAuthSetting', 'ApiKeyAuth', 'AuthSettings', 'Authorization', 'BasicAuthSetting', 'Bearer ', 'BearerAuth', 'BearerAuthSetting', 'GenericAuthSetting', 'JWT', 'OAuth2', 'OAuth2AuthSetting', 'api_key', 'authorization', 'basePath', 'basic', 'bearer', 'default_value', 'description', 'enum_values', 'exclusiveMaximum', 'exclusiveMinimum', 'format', 'header', 'host', 'http', 'http-signature', 'in', 'key', 'localhost', 'logger', 'logger_file_handler', 'maxItems', 'maxLength', 'maximum', 'minItems', 'minLength', 'minimum', 'multipleOf', 'oauth2', 'package_logger', 'pattern', 'port', 'scheme', 'type', 'url', 'urllib3', 'urllib3_logger', 'value', 'variables', 'x-api-key', '{', '}']

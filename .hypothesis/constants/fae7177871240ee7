@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_text_splitters\jsx.py
+# hypothesis_version: 6.151.9
+
+[2000, '\nasync function ', '\ncase ', '\nclass ', '\nconst ', '\ndefault ', '\nexport ', '\nfor ', '\nfunction ', '\nif ', '\nlet ', '\nswitch ', '\nvar ', '\nwhile ', ' async function ', ' case ', ' class ', ' default ', ' export ', ' for ', ' if ', ' switch ', ' while ', '&&\n', '<>', '||\n']

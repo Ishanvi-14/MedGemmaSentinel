@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lance_namespace_urllib3_client\models\rename_table_request.py
+# hypothesis_version: 6.151.9
+
+['The table identifier', 'context', 'id', 'identity', 'new_namespace_id', 'new_table_name']

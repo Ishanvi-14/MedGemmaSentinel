@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langgraph\pregel\debug.py
+# hypothesis_version: 6.151.9
+
+['$writes', '0;30', '0;31', '0;32', '0;33', '0;34', '0;35', '0;36', '0;37', '1;30', 'CheckpointPayload', 'CheckpointTask', 'TaskPayload', 'TaskResultPayload', '__pregel_', 'black', 'blue', 'config', 'configurable', 'cyan', 'error', 'gray', 'green', 'id', 'input', 'interrupts', 'magenta', 'metadata', 'name', 'next', 'parent_config', 'red', 'result', 'state', 'tags', 'tasks', 'thread_id', 'triggers', 'values', 'white', 'yellow']

@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lance_namespace_urllib3_client\api\namespace_api.py
+# hypothesis_version: 6.151.9
+
+['200', '400', '401', '403', '404', '406', '409', '503', '5XX', 'Accept', 'ApiKeyAuth', 'BearerAuth', 'Content-Type', 'ErrorResponse', 'GET', 'ListTablesResponse', 'OAuth2', 'POST', 'application/json', 'delimiter', 'id', 'limit', 'page_token']

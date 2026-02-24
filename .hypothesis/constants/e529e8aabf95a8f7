@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\rerankers\voyageai.py
+# hypothesis_version: 6.151.9
+
+['VOYAGE_API_KEY', '_distance', '_relevance_score', '_score', 'all', 'relevance', 'text', 'voyageai']

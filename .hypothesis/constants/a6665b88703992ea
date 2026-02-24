@@ -1,0 +1,4 @@
+# file: D:\Kaggle_competitions\sentinel\src\agents.py
+# hypothesis_version: 6.151.9
+
+['11434', 'CRITICAL', 'Check file integrity', 'Connection refused', 'DEVIATION', 'Extraction failed', 'Failed to parse PDF', 'GROWTH', 'PD', 'RISK', 'Unsupported format', '```', '```json', 'all_biomarkers', 'audit', 'audit_findings', 'biomarker_name', 'biomarker_type', 'biomarkers', 'confidence', 'conflicts', 'details', 'error', 'extract', 'extraction_a', 'extraction_b', 'file_content', 'filename', 'format_type', 'gemma3:4b', 'history', 'human_approved', 'human_review', 'is_critical', 'metadata', 'name', 'overall_confidence', 'parse_input', 'parse_timestamp', 'parsed_data', 'patient_id', 'raw_text', 'recovery_steps', 'relevant_guidelines', 'research', 'safety_auditor', 'safety_result', 'source_field', 'text', 'timestamp', 'unit', 'unknown', 'value', 'value_a', 'value_b', '{}']

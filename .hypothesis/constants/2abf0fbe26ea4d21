@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\textstat\backend\metrics\__init__.py
+# hypothesis_version: 6.151.9
+
+['chars_per_word', 'coleman_liau_index', 'crawford', 'fernandez_huerta', 'flesch_kincaid_grade', 'flesch_reading_ease', 'gulpease_index', 'gunning_fog', 'gutierrez_polini', 'letters_per_word', 'lix', 'mcalpine_eflaw', 'osman', 'reading_time', 'rix', 'sentences_per_word', 'smog_index', 'spache_readability', 'syllables_per_word', 'szigriszt_pazos', 'text_standard', 'words_per_sentence']

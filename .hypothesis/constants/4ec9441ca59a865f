@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_huggingface\llms\huggingface_pipeline.py
+# hypothesis_version: 6.151.9
+
+[60.0, '1.21', '1.22', '<', '[PAD]', 'before', 'default', 'device_map', 'forbid', 'generated_text', 'gpt2', 'huggingface_pipeline', 'image-text-to-text', 'ipex', 'is_loaded_in_4bit', 'is_loaded_in_8bit', 'model_id', 'model_kwargs', 'openvino', 'pad_token', 'pipeline', 'pipeline_kwargs', 'skip_prompt', 'summarization', 'summary_text', 'text-generation', 'text2text-generation', 'torch', 'translation', 'translation_text', 'trust_remote_code']

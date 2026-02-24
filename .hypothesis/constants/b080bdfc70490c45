@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\pydantic.py
+# hypothesis_version: 6.151.9
+
+['__origin__', 'array', 'is_multi_vector', 'item', 'items', 'json_schema_extra', 'maxItems', 'minItems', 'number', 'source_column_for', 'type', 'tz', 'us', 'vector_column_for']

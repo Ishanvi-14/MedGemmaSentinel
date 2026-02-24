@@ -1,0 +1,4 @@
+# file: D:\Kaggle_competitions\sentinel\src\safety_auditor\auditor.py
+# hypothesis_version: 6.151.9
+
+[0.0, 0.3, 0.5, 0.6, 1.0, 10.0, 20.0, 100.0, 1000.0, 1000000.0, 100, 'CEA', 'EGFR', '\\{.*\\}', 'cm', 'detected', 'extraction_a_only', 'extraction_b_only', 'g/L', 'gemma3:4b', 'm', 'merged', 'mg/L', 'mm', 'mutation', 'ng/mL', 'ng/ml', 'positive', 'prompt_a', 'prompt_b', 'status', 'tumor_size', 'ug/L', 'unit', 'value']

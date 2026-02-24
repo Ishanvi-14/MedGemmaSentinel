@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_text_splitters\html.py
+# hypothesis_version: 6.151.9
+
+[1000, 9999, '#TITLE#', 'Title', '[^\\w\\s]', '\\s+', 'a', 'audio', 'body', 'content', 'end', 'english', 'h1', 'header', 'href', 'html.parser', 'img', 'link-wrapper', 'media-wrapper', 'name', 'src', 'start', 'stopwords', 'str', 'tag_name', 'utf-8', 'video']

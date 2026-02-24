@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_community\llms\ollama.py
+# hypothesis_version: 6.151.9
+
+[200, 404, '0.3.1', '1.0.0', 'Content-Type', 'application/json', 'done', 'forbid', 'format', 'images', 'keep_alive', 'llama2', 'messages', 'mirostat', 'mirostat_eta', 'mirostat_tau', 'model', 'num_ctx', 'num_gpu', 'num_predict', 'num_thread', 'ollama-llm', 'options', 'prompt', 'raw', 'repeat_last_n', 'repeat_penalty', 'response', 'stop', 'system', 'temperature', 'template', 'tfs_z', 'top_k', 'top_p', 'utf-8']

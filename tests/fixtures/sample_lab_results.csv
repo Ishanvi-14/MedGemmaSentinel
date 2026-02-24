@@ -1,0 +1,7 @@
+patient_id,test_date,biomarker_name,value,unit,reference_range
+P12345,2024-01-15,tumor_size,3.2,cm,N/A
+P12345,2024-01-15,CEA,8.5,ng/mL,0-3
+P12345,2024-01-15,EGFR,positive,mutation_status,N/A
+P12345,2024-01-15,CA_19_9,45,U/mL,0-37
+P12345,2023-12-01,tumor_size,2.8,cm,N/A
+P12345,2023-12-01,CEA,7.2,ng/mL,0-3

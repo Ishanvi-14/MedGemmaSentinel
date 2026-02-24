@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\nltk\tag\crf.py
+# hypothesis_version: 6.151.9
+
+['CAPITALIZATION', 'HAS_NUM', 'PUNCTUATION', 'Pc', 'Pd', 'Pe', 'Pf', 'Pi', 'Po', 'Ps', 'SUF_', 'WORD_', '\\d']

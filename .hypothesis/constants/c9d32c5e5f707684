@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\pdfminer\pdfcolor.py
+# hypothesis_version: 6.151.9
+
+['CMYK', 'CalGray', 'CalRGB', 'DeviceCMYK', 'DeviceGray', 'DeviceRGB', 'G', 'Indexed', 'Lab', 'Pattern', 'RGB', 'Separation']

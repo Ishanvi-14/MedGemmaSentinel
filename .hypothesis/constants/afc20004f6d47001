@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_text_splitters\markdown.py
+# hypothesis_version: 6.151.9
+
+['#', '##', '###', '####', '#####', '######', 'Code', 'Header 1', 'Header 2', 'Header 3', 'Header 4', 'Header 5', 'Header 6', '^(#{1,6}) (.*)', '^---+\\n', '^\\*\\*\\*+\\n', '^___+\\n', '^```(.*)', '^~~~(.*)', '```', 'content', 'data', 'level', 'metadata', 'name', '~~~']

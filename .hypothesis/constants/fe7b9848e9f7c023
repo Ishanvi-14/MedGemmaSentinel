@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langgraph\checkpoint\base\__init__.py
+# hypothesis_version: 6.151.9
+
+['\x00', 'V', '__', 'channel_values', 'channel_versions', 'checkpoint_id', 'checkpoint_map', 'checkpoint_ns', 'configurable', 'fork', 'id', 'input', 'langgraph_node', 'langgraph_path', 'langgraph_step', 'langgraph_triggers', 'loop', 'metadata', 'pending_sends', 'thread_id', 'ts', 'update', 'updated_channels', 'v', 'versions_seen', 'writes']

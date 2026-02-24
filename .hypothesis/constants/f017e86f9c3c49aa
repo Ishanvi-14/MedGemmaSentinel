@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lance_namespace_urllib3_client\api_client.py
+# hypothesis_version: 6.151.9
+
+[100, 200, 299, 599, '&', ',', '=', '?', 'Content-Disposition', 'Cookie', 'Dict[', 'Dict\\[([^,]*), (.*)]', 'List[', 'List\\[(.*)]', 'User-Agent', 'XX', 'bool', 'bytearray', 'content-type', 'cookie', 'date', 'datetime', 'decimal', 'file', 'float', 'header', 'http-signature', 'in', 'int', 'json', 'key', 'long', 'multi', 'object', 'pipes', 'query', 'rb', 'ssv', 'str', 'to_dict', 'tsv', 'type', 'utf-8', 'value', 'wb', '{%s}', '|']

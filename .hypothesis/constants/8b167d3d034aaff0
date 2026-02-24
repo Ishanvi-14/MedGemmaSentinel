@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\rerankers\linear_combination.py
+# hypothesis_version: 6.151.9
+
+[0.7, 1.0, '_distance', '_relevance_score', '_rowid', '_score', 'all', 'descending', 'relevance']

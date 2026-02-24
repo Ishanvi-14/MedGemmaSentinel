@@ -1,0 +1,106 @@
+{
+  "resourceType": "Bundle",
+  "type": "collection",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Patient",
+        "id": "P12345",
+        "identifier": [
+          {
+            "system": "http://hospital.example.org/patients",
+            "value": "P12345"
+          }
+        ],
+        "name": [
+          {
+            "family": "Doe",
+            "given": ["John"]
+          }
+        ]
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "id": "obs-tumor-size",
+        "status": "final",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "21889-1",
+              "display": "Tumor size"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "Patient/P12345"
+        },
+        "effectiveDateTime": "2024-01-15",
+        "valueQuantity": {
+          "value": 32,
+          "unit": "mm",
+          "system": "http://unitsofmeasure.org",
+          "code": "mm"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "id": "obs-cea",
+        "status": "final",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "2039-6",
+              "display": "Carcinoembryonic Ag"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "Patient/P12345"
+        },
+        "effectiveDateTime": "2024-01-15",
+        "valueQuantity": {
+          "value": 8.5,
+          "unit": "ng/mL",
+          "system": "http://unitsofmeasure.org",
+          "code": "ng/mL"
+        }
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "id": "obs-egfr",
+        "status": "final",
+        "code": {
+          "coding": [
+            {
+              "system": "http://loinc.org",
+              "code": "85337-4",
+              "display": "EGFR gene mutation"
+            }
+          ]
+        },
+        "subject": {
+          "reference": "Patient/P12345"
+        },
+        "effectiveDateTime": "2024-01-15",
+        "valueCodeableConcept": {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "10828004",
+              "display": "Positive"
+            }
+          ],
+          "text": "Exon 19 deletion detected"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\langchain_core\tracers\context.py
+# hypothesis_version: 6.151.9
+
+['Callbacks', 'local', 'parent', 'project', 'project_name', 'run_collector', 'session_name', 'str', 'tracing_callback_v2']

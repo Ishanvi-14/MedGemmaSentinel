@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lancedb\embeddings\voyageai.py
+# hypothesis_version: 6.151.9
+
+[256, 512, 1000, 1024, 1536, 2048, 32000, 120000, 320000, 1000000, '.avi', '.gif', '.m4v', '.mkv', '.mov', '.mp4', '.webm', 'JPEG', 'PIL.Image', 'PIL.Image.Image', 'VOYAGE_API_KEY', 'content', 'context', 'document', 'image_base64', 'image_url', 'multimodal', 'output_dimension', 'pillow', 'query', 'rb', 'text', 'type', 'utf-8', 'video_base64', 'video_url', 'voyage-3', 'voyage-3-lite', 'voyage-3.5', 'voyage-3.5-lite', 'voyage-4', 'voyage-4-large', 'voyage-4-lite', 'voyage-code-2', 'voyage-context-3', 'voyage-finance-2', 'voyage-law-2', 'voyage-multimodal-3', 'voyageai']

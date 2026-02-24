@@ -1,0 +1,4 @@
+# file: D:\Kaggle_competitions\sentinel\src\patient_translator\translator.py
+# hypothesis_version: 6.151.9
+
+[0.3, 0.7, 'English', 'Hindi', 'Marathi', 'Spanish', 'en', 'es', 'gemma3:4b', 'hi', 'high', 'low', 'medium', 'mr', '⚪', '🔴', '🟡', '🟢']

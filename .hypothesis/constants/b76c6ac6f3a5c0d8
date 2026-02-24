@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lance_namespace_urllib3_client\models\merge_insert_into_table_response.py
+# hypothesis_version: 6.151.9
+
+['num_deleted_rows', 'num_inserted_rows', 'num_updated_rows', 'transaction_id', 'version']

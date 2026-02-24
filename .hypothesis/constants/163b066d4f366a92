@@ -1,0 +1,4 @@
+# file: C:\Users\Ishanvi Mitragotri\AppData\Roaming\Python\Python313\site-packages\lance_namespace_urllib3_client\rest.py
+# hypothesis_version: 6.151.9
+
+['://', 'Content-Type', 'DELETE', 'GET', 'HEAD', 'OPTIONS', 'PATCH', 'POST', 'PUT', 'assert_hostname', 'ca_cert_data', 'ca_certs', 'cert_file', 'cert_reqs', 'false', 'headers', 'json', 'key_file', 'maxsize', 'multipart/form-data', 'proxy_headers', 'proxy_url', 'retries', 'server_hostname', 'socket_options', 'socks4', 'socks4a', 'socks5', 'socks5h', 'text/', 'true']
